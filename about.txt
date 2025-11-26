@@ -1,3 +1,4 @@
 This is my first GitHub project created for learning basic version control concepts.
 In this repository, I am practicing how to create files, edit them, and track changes using commits.
 This project is a part of my Experiment No. 3 activity.
+I also explore branching, pull requests, and merging to understand collaborative workflows.
